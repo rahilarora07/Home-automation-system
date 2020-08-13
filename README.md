@@ -16,16 +16,8 @@ home automation system arduino
 - when you perform some operation on the application it sends data to IoT device in the encoded protocol that I have developed to minimize data corruption and error with minimal overhead
 - redundant bits are added for error detection at the end of the string
 
-encoding of data for communication for  on/off particular Equipment:
-![](https://raw.githubusercontent.com/fenil29/home-automation-system-android-application/master/images/message_encoding.jpg)
-
 ## Screenshorts of Application
 ![](https://raw.githubusercontent.com/fenil29/home-automation-system-android-application/master/images/ss1.png)    ![](https://raw.githubusercontent.com/fenil29/home-automation-system-android-application/master/images/ss2.png)
-
-
-
-![](https://raw.githubusercontent.com/fenil29/home-automation-system-android-application/master/images/ss2.png)
-
 ------------
 ### The hardware required while making the project is:
 - Arduino Uno
