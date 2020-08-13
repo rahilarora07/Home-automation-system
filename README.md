@@ -2,7 +2,7 @@
 
 **Note:** This is a repository of Arduino Uno code.
 
-#### Download Link of Android Applicaion Apk : [Download](https://drive.google.com/open?id=1wi6MTrVnU-XF1ut4-D9Cst1A7HgzBJEd)
+#### Download Link of Android Applicaion Apk : [Download](https://drive.google.com/file/d/1uK83S_QRx1_6FQJJKLLMzgp16M9GKrV0/view?usp=sharing)
 
 home automation system arduino
 
