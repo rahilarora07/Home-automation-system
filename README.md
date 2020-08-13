@@ -1,4 +1,4 @@
-# home-automation-system-arduino
+# Home-automation-system-arduino
 
 **Note:** This is a repository of Arduino Uno code.
 
